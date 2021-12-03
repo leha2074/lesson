@@ -16,7 +16,7 @@ Ciao Mondo (Итальянский)
 Сәлем, Әлем (Казахский)
 Salve, Mundi (Латынь)
 Sveiki, Pasaule (Латышский)
-Hallo Welt (Немецкий)
+Hallo Welt (Немецкий) 
 Hallo, Wereld. (Нидерландский)
 
 Witaj Świecie (Польский)

@@ -1,28 +1,26 @@
-Hello, World!
-	Hello, World!
-		Hello, World!
-			Hello, World!
-				Привет, Мир!
+!Hello, World!
 Привет, Мир!
-	Привет, Мир!
 
 Salam, Dünya (Азербайджанский)
-	Përshëndetje, Botë (Албанский)
-		Բարեւ Աշխարհ (Армянский)	
-			Kaixo Mundua (Баскский)
-				Сәләм, Тыныслыҡ (Башкирский)
+Përshëndetje, Botë (Албанский)
+Բարեւ Աշխարհ (Армянский)	
+Kaixo Mundua (Баскский)
+Сәләм, Тыныслыҡ (Башкирский)
+
 Прывітанне, Свет (Белорусский)
-	Здравей, Свят (Болгарский)
-		Helló, Világ (Венгерский)
-			Hej, Verden (Датский)
-				Ciao Mondo (Итальянский)
+Здравей, Свят (Болгарский)
+Helló, Világ (Венгерский)
+Hej, Verden (Датский)
+Ciao Mondo (Итальянский)
+
 Сәлем, Әлем (Казахский)
-	Salve, Mundi (Латынь)
-		Sveiki, Pasaule (Латышский)
-			Hallo Welt (Немецкий)
-				Hallo, Wereld. (Нидерландский)
+Salve, Mundi (Латынь)
+Sveiki, Pasaule (Латышский)
+Hallo Welt (Немецкий) 
+Hallo, Wereld. (Нидерландский)
+
 Witaj Świecie (Польский)
-	Bună Ziua, Lume (Румынский)
-		Ahoj, Svet (Словацкий)	
-			Merhaba Dünya (Турецкий)
-				Bonjour Le Monde (Французский)
+Bună Ziua, Lume (Румынский)
+Ahoj, Svet (Словацкий)	
+Merhaba Dünya (Турецкий)
+Bonjour Le Monde (Французский)

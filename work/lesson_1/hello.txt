@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 !Hello, World!
 Привет, Мир!
+123
 
 Salam, Dünya (Азербайджанский)
 Përshëndetje, Botë (Албанский)
